@@ -1,7 +1,7 @@
 dell g3 3590 15.6fh<?php
 
 define('BOT_TOKEN', '1411336572:AAEKy505WS2TpESnQUwSK10pnIScT9dvnFo');
-define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+define('API_URL', 'https://github.com/Skatoro/skatoro.github.io/commit/b8f8316b4ef58f9bdfc1b334a82ff2c243946ac8');
 
 function apiRequestWebhook($method, $parameters) {
   if (!is_string($method)) {
